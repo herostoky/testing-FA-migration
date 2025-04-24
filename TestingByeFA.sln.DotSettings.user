@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b676aed1_002Db521_002D49a5_002Dbee4_002D6db1ae39b929/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CelebrateBirthday_ShouldIncrementAge" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::DA0CA90A-37F4-4A98-A0E7-50EF057BCF94::net8.0::TestProjectXUnit.PersonTests.CelebrateBirthday_ShouldIncrementAge&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::14E3E149-431D-4136-9E44-7E7448B0BAD6::net8.0::TestProjectNUnit.PersonTests.CelebrateBirthday_ShouldIncrementAge&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::DA0CA90A-37F4-4A98-A0E7-50EF057BCF94::net8.0::TestProjectXUnit.PersonTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
