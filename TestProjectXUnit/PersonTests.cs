@@ -1,5 +1,4 @@
 using FluentAssertions;
-using Shouldly;
 using TestingByeFA;
 
 namespace TestProjectXUnit
@@ -24,8 +23,7 @@ namespace TestProjectXUnit
         public void Name_Should_Be_Expected()
         {
             var person = new Person(30, "John", null);
-            // person.Name.Should().Be("John");
-            person.Name.ShouldBe("John");
+            person.Name.Should().Be("John");
         }
 
         // result.Should().NotBe(unexpected)
